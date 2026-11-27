@@ -88,6 +88,12 @@ studymate-ai-assistant/
 ├── Final_Колісник_Костянтин_Анатолійович.ipynb   # Основний записник із кодом агента, tools та тестами
 └── README.md                                      # Опис продукту, архітектури та інструкція запуску
 ```
+
+## Презентація проєкту
+
+* **Слайди та огляд рішення:** [Відкрити презентацію StudyMate](https://docs.google.com/presentation/d/1V4D7mq2TfgtvWMTMIiRJ6kDsfphzEyPR) *(замініть на реальне посилання на презентацію)*.
+* **Демонстрація в Colab:** у записнику [`Final_Колісник_Костянтин_Анатолійович.ipynb`](https://colab.research.google.com/drive/1wQTVbLFwLDMI7WdFTb4IPFCOOp-VR2pi) реалізовано перемикач `SIMULATE_PRIMARY_FAILURE` для показу автоматичного fallback з `gemini-4-hydrogen` на `gpt-6-luna` під час живої демонстрації.
+* 
 ## Автор
 
 **Колісник Костянтин Анатолійович**  
